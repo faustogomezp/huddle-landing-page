@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Escuela de Desarrollo Web by Platzi - Huddle landing page with single introductory section
 
 ![Vista previa del diseño de la página de inicio de Huddle con una única sección introductoria](./design/desktop-preview.jpg)
@@ -43,3 +44,6 @@ There are multiple places you can share your solution:
 ## Creditos por el diseño y reto.
 
 Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.frontendmentor.io)
+=======
+# huddle-landing-page
+>>>>>>> 7095897ea572f1c22d3df9b92e59d5ea6b082b57
