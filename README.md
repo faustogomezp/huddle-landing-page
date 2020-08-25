@@ -45,5 +45,3 @@ There are multiple places you can share your solution:
 
 Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.frontendmentor.io)
 =======
-# huddle-landing-page
->>>>>>> 7095897ea572f1c22d3df9b92e59d5ea6b082b57
